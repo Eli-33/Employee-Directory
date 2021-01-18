@@ -47,7 +47,7 @@ Enter a name for the employees to filter to find your search.
 
 
 ## Deployed App
-Deployed at Heroku (https://eli-33.github.io/Employee-Directory/?)
+Deployed App (https://eli-33.github.io/Employee-Directory/?)
 
 ## license
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
